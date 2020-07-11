@@ -1,0 +1,16 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "AnimatedTabBar",
+        "repositoryURL": "https://github.com/JCGuidi/AnimatedTabBar.git",
+        "state": {
+          "branch": "master",
+          "revision": "b7e78290b64bf7a46767e1b4c08c986f40d4b9b4",
+          "version": null
+        }
+      }
+    ]
+  },
+  "version": 1
+}
